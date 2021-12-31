@@ -20,7 +20,9 @@ Code to calculate the optical response of an optical structure with a TES embedd
 
 
 * Free software: MIT license
-* Documentation: https://tes-optical-stack.readthedocs.io.
+
+.. comment
+    * Documentation: https://tes-optical-stack.readthedocs.io.
 
 
 Features

@@ -23,7 +23,11 @@ Code to calculate the optical response of an optical structure with a TES embedd
 
 .. comment
     * Documentation: https://tes-optical-stack.readthedocs.io.
+Example Notebook
+----------------
 
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/saewoonam/tes_optical_stack/main?urlpath=https%3A%2F%2Fgithub.com%2Fsaewoonam%2Ftes_optical_stack%2Fblob%2Fmain%2Fexamples%2F1064_optimize_use_tes_optical_stack_package.ipynb
 
 Features
 --------

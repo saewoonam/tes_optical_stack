@@ -99,7 +99,7 @@ def build_gui_layer_v2(name, guess, nk):
     guess_widget = widgets.BoundedFloatText(
         value=guess,
         min=1,
-        #max=np.inf,
+        max=2000,
         #step=0.1,
         #description=f'{name}:',
         disabled=False,
